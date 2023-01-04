@@ -16,7 +16,7 @@ class FirstStep extends PluginBase implements Listener {
     var array $cooldown;
 
     public function onLoad() {
-        $this->getLogger()->info("플러그인 개어렵다");
+        $this->getLogger()->info("플러그인 첫 걸음");
     }
 
     public function onEnable() {
@@ -28,7 +28,7 @@ class FirstStep extends PluginBase implements Listener {
 
     public function onJoin(PlayerJoinEvent $event) {
         $player = $event->getPlayer();
-        $player->sendMessage("어서오셈");
+        $player->sendMessage("환영합니다");
     }
 
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
