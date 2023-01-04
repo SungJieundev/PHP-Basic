@@ -1,0 +1,16 @@
+name: FirstStep
+version: 0.0.1
+author: JuJak2
+main: firststep\FirstStep
+api: 3.0.0
+
+commands:
+  다이아몬드:
+    description: 다이아몬드 지급
+    permission: user
+  월드:
+    description: 월드를 생성하는 명령어입니다.
+    permission: user
+permissions:
+  user:
+    default: op
