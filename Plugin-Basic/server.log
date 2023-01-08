@@ -1,0 +1,91 @@
+2023-01-08 [01:21:33.074] [Server thread/INFO]: Loading server configuration
+2023-01-08 [01:21:33.136] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-08 [01:21:33.139] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-08 [01:21:33.143] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-08 [01:21:33.261] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-08 [01:21:33.261] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-08 [01:21:33.440] [Server thread/INFO]: Loading resource packs...
+2023-01-08 [01:21:33.464] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-08 [01:21:33.469] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-08 [01:21:33.469] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-08 [01:21:33.470] [Server thread/INFO]: [NightVision] Plugin Loaded
+2023-01-08 [01:21:33.471] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-08 [01:21:33.499] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-08 [01:21:33.513] [Server thread/NOTICE]: "world" 세계의 스폰 지형이 백그라운드에서 생성 중입니다
+2023-01-08 [01:21:33.544] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-08 [01:21:33.594] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-08 [01:21:33.594] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-08 [01:21:33.631] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-08 [01:21:33.637] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-08 [01:21:33.639] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-08 [01:21:33.640] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-08 [01:21:33.641] [Server thread/INFO]: 완료 (0.568초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-08 [01:21:34.268] [Server thread/INFO]: [World: world] 스폰 지형 생성: 1 / 224 (0%)
+2023-01-08 [01:21:34.840] [Server thread/INFO]: [World: world] 스폰 지형 생성: 23 / 224 (10%)
+2023-01-08 [01:21:35.532] [Server thread/INFO]: [World: world] 스폰 지형 생성: 45 / 224 (20%)
+2023-01-08 [01:21:35.772] [Server thread/INFO]: [World: world] 스폰 지형 생성: 68 / 224 (30%)
+2023-01-08 [01:21:36.045] [Server thread/INFO]: [World: world] 스폰 지형 생성: 90 / 224 (40%)
+2023-01-08 [01:21:36.256] [Server thread/INFO]: [World: world] 스폰 지형 생성: 112 / 224 (50%)
+2023-01-08 [01:21:36.443] [Server thread/INFO]: [World: world] 스폰 지형 생성: 135 / 224 (60%)
+2023-01-08 [01:21:36.806] [Server thread/INFO]: [World: world] 스폰 지형 생성: 157 / 224 (70%)
+2023-01-08 [01:21:37.074] [Server thread/INFO]: [World: world] 스폰 지형 생성: 180 / 224 (80%)
+2023-01-08 [01:21:37.313] [Server thread/INFO]: [World: world] 스폰 지형 생성: 202 / 224 (90%)
+2023-01-08 [01:21:37.534] [Server thread/INFO]: [World: world] 스폰 지형 생성: 224 / 224 (100%)
+2023-01-08 [01:22:02.073] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-01-08 [01:22:02.074] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-08 [01:22:02.075] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-08 [01:22:02.075] [Server thread/INFO]: "world" 세계를 언로드하는 중입니다
+2023-01-08 [01:22:02.255] [Server thread/INFO]: Stopping other threads
+2023-01-08 [01:39:44.347] [Server thread/INFO]: Loading server configuration
+2023-01-08 [01:39:44.371] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-08 [01:39:44.374] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-08 [01:39:44.377] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-08 [01:39:44.482] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-08 [01:39:44.482] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-08 [01:39:44.664] [Server thread/INFO]: Loading resource packs...
+2023-01-08 [01:39:44.682] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-08 [01:39:44.687] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-08 [01:39:44.688] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-08 [01:39:44.688] [Server thread/INFO]: [NightVision] Plugin Loaded
+2023-01-08 [01:39:44.689] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-08 [01:39:44.815] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-08 [01:39:44.827] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-08 [01:39:44.854] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-08 [01:39:44.854] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-08 [01:39:44.864] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-08 [01:39:44.864] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-08 [01:39:44.865] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-08 [01:39:44.865] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-08 [01:39:44.866] [Server thread/INFO]: 완료 (0.52초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-08 [01:41:13.474] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-01-08 [01:41:13.475] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-08 [01:41:13.476] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-08 [01:41:13.476] [Server thread/INFO]: "world" 세계를 언로드하는 중입니다
+2023-01-08 [01:41:13.536] [Server thread/INFO]: Stopping other threads
+2023-01-08 [01:42:04.640] [Server thread/INFO]: Loading server configuration
+2023-01-08 [01:42:04.658] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-08 [01:42:04.661] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-08 [01:42:04.664] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-08 [01:42:04.766] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-08 [01:42:04.766] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-08 [01:42:04.948] [Server thread/INFO]: Loading resource packs...
+2023-01-08 [01:42:04.967] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-08 [01:42:04.972] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-08 [01:42:04.973] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-08 [01:42:04.974] [Server thread/INFO]: [NightVision] Plugin Loaded
+2023-01-08 [01:42:04.974] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-08 [01:42:05.033] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-08 [01:42:05.046] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-08 [01:42:05.075] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-08 [01:42:05.075] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-08 [01:42:05.087] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-08 [01:42:05.088] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-08 [01:42:05.089] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-08 [01:42:05.089] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-08 [01:42:05.089] [Server thread/INFO]: 완료 (0.45초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-08 [01:42:37.786] [Server thread/INFO]: [NetworkSession: 127.0.0.1 59594] Session opened
+2023-01-08 [01:42:37.958] [Server thread/INFO]: [NetworkSession: 127.0.0.1 59594] Player: JuJak2
+2023-01-08 [01:42:38.508] [Server thread/INFO]: JuJak2[/127.0.0.1:59594]이(가) 개체 ID 1(으)로 (world, 256, 64, 256)에서 로그인했습니다
+2023-01-08 [01:42:45.020] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
+2023-01-08 [01:43:11.684] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
+2023-01-08 [01:43:11.692] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to client disconnect

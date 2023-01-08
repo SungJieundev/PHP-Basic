@@ -1,0 +1,17 @@
+name: NightVision
+main: JuJak2\NightVision\MainClass
+version: 0.0.1
+api: 4.0.0
+
+commands:
+  야간투시:
+    description: 야간투시를 부여합니다.
+    permission: nightVision.command.user
+    aliases: [ㅇㄱㅌㅅ, 야투]
+
+permissions:
+  nightVision.command.user:
+    description: "야간투시 명령어를 사용할 수 있는 권한"
+    default: true
+
+
