@@ -13,7 +13,7 @@ class MainClass extends PluginBase{
 
     public function onLoad(): void
     {
-        $this->getLogger()->info(TextFormat::WHITE . "Plugin Loaded");
+        $this->getLogger()->info(TextFormat::WHITE . "NightVision Plugin Loaded");
     }
 
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool

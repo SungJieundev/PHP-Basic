@@ -10,6 +10,10 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 
 class MainClass extends PluginBase{
-    
+
+    public function onLoad(): void
+    {
+        $this->getLogger()->info(TextFormat::WHITE . "Compass Plugin Loaded");
+    }
 }
 
