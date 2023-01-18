@@ -1,0 +1,15 @@
+name: Compass
+main: JuJak2\Compass\Compass
+version: 0.0.1
+api: 4.0.0
+
+commands:
+  나침반:
+    description: 이동 및 편의기능을 모아 둔 UI를 표시합니다.
+    permission: Compass.command.user
+    aliases: [이동, 편의]
+
+permissions:
+  Compass.command.user:
+    description: "나침반을 사용할 수 있는 권한"
+    default: true
