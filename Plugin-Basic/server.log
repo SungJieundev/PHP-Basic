@@ -89,3 +89,240 @@
 2023-01-08 [01:42:45.020] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
 2023-01-08 [01:43:11.684] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
 2023-01-08 [01:43:11.692] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to client disconnect
+2023-01-31 [01:08:13.973] [Server thread/INFO]: Loading server configuration
+2023-01-31 [01:08:13.999] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-31 [01:08:14.001] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-31 [01:08:14.003] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-31 [01:08:14.113] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-31 [01:08:14.113] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-31 [01:08:14.310] [Server thread/INFO]: Loading resource packs...
+2023-01-31 [01:08:14.335] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-31 [01:08:14.340] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-31 [01:08:14.351] [Server thread/INFO]: Compass v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:08:14.352] [Server thread/CRITICAL]: 'Compass' 플러그인을 불러올 수 없습니다: 주 클래스를 찾을 수 없습니다
+2023-01-31 [01:08:14.353] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:08:14.365] [Server thread/INFO]: [NightVision] NightVision Plugin Loaded
+2023-01-31 [01:08:14.365] [Server thread/INFO]: FormAPI v2.1.0을(를) 불러오는 중입니다
+2023-01-31 [01:08:14.366] [Server thread/EMERGENCY]: 일부 플러그인을 불러오지 못했으므로 서버 무결성을 보호하기 위해 서버를 중지합니다
+2023-01-31 [01:08:14.366] [Server thread/EMERGENCY]: 서버를 강제로 종료하는 중입니다
+2023-01-31 [01:08:14.956] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.12.11 was released on Mon Jan 23 04:45:08 2023
+2023-01-31 [01:08:14.956] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.12.11
+2023-01-31 [01:08:14.956] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.12.11/PocketMine-MP.phar
+2023-01-31 [01:08:47.599] [Server thread/INFO]: Loading server configuration
+2023-01-31 [01:08:47.616] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-31 [01:08:47.620] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-31 [01:08:47.623] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-31 [01:08:47.738] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-31 [01:08:47.738] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-31 [01:08:47.918] [Server thread/INFO]: Loading resource packs...
+2023-01-31 [01:08:47.935] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-31 [01:08:47.940] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-31 [01:08:47.941] [Server thread/INFO]: FormAPI v2.1.0을(를) 불러오는 중입니다
+2023-01-31 [01:08:47.942] [Server thread/INFO]: Compass v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:08:47.942] [Server thread/INFO]: [Compass] Compass Plugin Loaded
+2023-01-31 [01:08:47.943] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:08:47.943] [Server thread/INFO]: [NightVision] NightVision Plugin Loaded
+2023-01-31 [01:08:47.943] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:08:48.069] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-31 [01:08:48.083] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:08:48.083] [Server thread/INFO]: Compass v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:08:48.085] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:08:48.114] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:08:48.114] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:08:48.127] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:08:48.128] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:08:48.129] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-31 [01:08:48.129] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-31 [01:08:48.130] [Server thread/INFO]: 완료 (0.531초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-31 [01:08:48.673] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.12.11 was released on Mon Jan 23 04:45:08 2023
+2023-01-31 [01:08:48.673] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.12.11
+2023-01-31 [01:08:48.673] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.12.11/PocketMine-MP.phar
+2023-01-31 [01:09:27.232] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Session opened
+2023-01-31 [01:09:27.396] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Player: JuJak2
+2023-01-31 [01:09:28.010] [Server thread/INFO]: JuJak2[/127.0.0.1:51593]이(가) 개체 ID 1(으)로 (world, 253.0915, 67, 242.7839)에서 로그인했습니다
+2023-01-31 [01:09:34.260] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
+2023-01-31 [01:09:50.968] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
+2023-01-31 [01:09:51.019] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to client disconnect
+2023-01-31 [01:10:01.396] [Server thread/INFO]: [CONSOLE: JuJak2에게 관리자 권한을 부여했습니다]
+2023-01-31 [01:10:09.814] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Session opened
+2023-01-31 [01:10:09.980] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Player: JuJak2
+2023-01-31 [01:10:10.447] [Server thread/INFO]: JuJak2[/127.0.0.1:51593]이(가) 개체 ID 2(으)로 (world, 253.0915, 67, 242.7839)에서 로그인했습니다
+2023-01-31 [01:10:13.939] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
+2023-01-31 [01:10:35.100] [Server thread/INFO]: [JuJak2: 자신의 게임 모드를 크리에이티브 모드로 설정했습니다]
+2023-01-31 [01:10:52.331] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
+2023-01-31 [01:10:52.341] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to client disconnect
+2023-01-31 [01:10:53.280] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-01-31 [01:10:53.287] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:10:53.294] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:10:53.309] [Server thread/INFO]: Compass v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:10:53.313] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:10:53.322] [Server thread/INFO]: "world" 세계를 언로드하는 중입니다
+2023-01-31 [01:10:55.062] [Server thread/INFO]: Stopping other threads
+2023-01-31 [01:21:35.011] [Server thread/INFO]: Loading server configuration
+2023-01-31 [01:21:35.032] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-31 [01:21:35.035] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-31 [01:21:35.038] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-31 [01:21:35.153] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-31 [01:21:35.154] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-31 [01:21:35.345] [Server thread/INFO]: Loading resource packs...
+2023-01-31 [01:21:35.364] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-31 [01:21:35.369] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-31 [01:21:35.371] [Server thread/INFO]: Compass v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:21:35.371] [Server thread/INFO]: [Compass] Compass Plugin Loaded
+2023-01-31 [01:21:35.372] [Server thread/INFO]: FormAPI v2.1.0을(를) 불러오는 중입니다
+2023-01-31 [01:21:35.372] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:21:35.373] [Server thread/INFO]: [NightVision] NightVision Plugin Loaded
+2023-01-31 [01:21:35.373] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:21:35.502] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-31 [01:21:35.518] [Server thread/INFO]: Compass v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:21:35.520] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:21:35.520] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:21:35.552] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:21:35.553] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:21:35.568] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:21:35.568] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:21:35.569] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-31 [01:21:35.569] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-31 [01:21:35.570] [Server thread/INFO]: 완료 (0.559초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-31 [01:21:36.113] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.12.11 was released on Mon Jan 23 04:45:08 2023
+2023-01-31 [01:21:36.113] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.12.11
+2023-01-31 [01:21:36.113] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.12.11/PocketMine-MP.phar
+2023-01-31 [01:21:43.057] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Session opened
+2023-01-31 [01:21:43.222] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Player: JuJak2
+2023-01-31 [01:21:43.671] [Server thread/INFO]: JuJak2[/127.0.0.1:51593]이(가) 개체 ID 1(으)로 (world, 253.0915, 67, 242.7839)에서 로그인했습니다
+2023-01-31 [01:21:47.092] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
+2023-01-31 [01:22:48.919] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-01-31 [01:22:48.922] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:22:48.924] [Server thread/INFO]: Compass v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:22:48.924] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:22:48.925] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:22:48.926] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
+2023-01-31 [01:22:48.934] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to Server closed
+2023-01-31 [01:22:48.937] [Server thread/INFO]: "world" 세계를 언로드하는 중입니다
+2023-01-31 [01:22:49.909] [Server thread/INFO]: Stopping other threads
+2023-01-31 [01:23:00.233] [Server thread/INFO]: Loading server configuration
+2023-01-31 [01:23:00.253] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-31 [01:23:00.257] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-31 [01:23:00.260] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-31 [01:23:00.369] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-31 [01:23:00.370] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-31 [01:23:00.593] [Server thread/INFO]: Loading resource packs...
+2023-01-31 [01:23:00.614] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-31 [01:23:00.622] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-31 [01:23:00.626] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:23:00.628] [Server thread/INFO]: [NightVision] NightVision Plugin Loaded
+2023-01-31 [01:23:00.628] [Server thread/INFO]: Compass v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:23:00.630] [Server thread/INFO]: [Compass] Compass Plugin Loaded
+2023-01-31 [01:23:00.630] [Server thread/INFO]: FormAPI v2.1.0을(를) 불러오는 중입니다
+2023-01-31 [01:23:00.631] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:23:00.690] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-31 [01:23:00.710] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:23:00.710] [Server thread/INFO]: Compass v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:23:00.712] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:23:00.754] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:23:00.755] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:23:00.773] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:23:00.773] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:23:00.774] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-31 [01:23:00.774] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-31 [01:23:00.774] [Server thread/INFO]: 완료 (0.542초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-31 [01:23:01.331] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.12.11 was released on Mon Jan 23 04:45:08 2023
+2023-01-31 [01:23:01.331] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.12.11
+2023-01-31 [01:23:01.332] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.12.11/PocketMine-MP.phar
+2023-01-31 [01:23:05.598] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Session opened
+2023-01-31 [01:23:05.748] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Player: JuJak2
+2023-01-31 [01:23:06.245] [Server thread/INFO]: JuJak2[/127.0.0.1:51593]이(가) 개체 ID 1(으)로 (world, 253.0915, 67, 242.7839)에서 로그인했습니다
+2023-01-31 [01:23:10.458] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
+2023-01-31 [01:23:20.096] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
+2023-01-31 [01:23:20.101] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to client disconnect
+2023-01-31 [01:23:23.237] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-01-31 [01:23:23.241] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:23:23.244] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:23:23.245] [Server thread/INFO]: Compass v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:23:23.245] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:23:23.247] [Server thread/INFO]: "world" 세계를 언로드하는 중입니다
+2023-01-31 [01:23:24.364] [Server thread/INFO]: Stopping other threads
+2023-01-31 [01:24:10.639] [Server thread/INFO]: Loading server configuration
+2023-01-31 [01:24:10.661] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-31 [01:24:10.664] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-31 [01:24:10.669] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-31 [01:24:10.792] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-31 [01:24:10.793] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-31 [01:24:11.040] [Server thread/INFO]: Loading resource packs...
+2023-01-31 [01:24:11.063] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-31 [01:24:11.071] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-31 [01:24:11.074] [Server thread/INFO]: FormAPI v2.1.0을(를) 불러오는 중입니다
+2023-01-31 [01:24:11.075] [Server thread/INFO]: Compass v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:24:11.077] [Server thread/INFO]: [Compass] Compass Plugin Loaded
+2023-01-31 [01:24:11.078] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:24:11.079] [Server thread/INFO]: [NightVision] NightVision Plugin Loaded
+2023-01-31 [01:24:11.079] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:24:11.157] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-31 [01:24:11.178] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:24:11.178] [Server thread/INFO]: Compass v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:24:11.180] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:24:11.223] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:24:11.224] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:24:11.240] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:24:11.241] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:24:11.242] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-31 [01:24:11.242] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-31 [01:24:11.242] [Server thread/INFO]: 완료 (0.604초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-31 [01:24:11.800] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.12.11 was released on Mon Jan 23 04:45:08 2023
+2023-01-31 [01:24:11.801] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.12.11
+2023-01-31 [01:24:11.801] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.12.11/PocketMine-MP.phar
+2023-01-31 [01:24:13.872] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Session opened
+2023-01-31 [01:24:14.020] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Player: JuJak2
+2023-01-31 [01:24:14.519] [Server thread/INFO]: JuJak2[/127.0.0.1:51593]이(가) 개체 ID 1(으)로 (world, 253.0915, 67, 242.7839)에서 로그인했습니다
+2023-01-31 [01:24:18.610] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
+2023-01-31 [01:25:44.198] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-01-31 [01:25:44.214] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:25:44.215] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:25:44.215] [Server thread/INFO]: Compass v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:25:44.216] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:25:44.217] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
+2023-01-31 [01:25:44.225] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to Server closed
+2023-01-31 [01:25:44.226] [Server thread/INFO]: "world" 세계를 언로드하는 중입니다
+2023-01-31 [01:25:45.325] [Server thread/INFO]: Stopping other threads
+2023-01-31 [01:25:52.213] [Server thread/INFO]: Loading server configuration
+2023-01-31 [01:25:52.233] [Server thread/INFO]: 한국어 (kor)을(를) 기본 언어로 선택했습니다
+2023-01-31 [01:25:52.237] [Server thread/INFO]: Minecraft: Bedrock Edition 서버 버전 v1.19.50을(를) 시작하는 중입니다
+2023-01-31 [01:25:52.240] [Server thread/INFO]: 온라인 모드가 사용되도록 설정되어 있습니다. 서버에서 플레이어가 Xbox Live가 인증되었는지 확인합니다.
+2023-01-31 [01:25:52.349] [Server thread/INFO]: 이 서버는 PocketMine-MP 버전 4.12.6을(를) 실행하고 있습니다
+2023-01-31 [01:25:52.349] [Server thread/INFO]: PocketMine-MP은(는) LGPL 라이선스 하에 배포됩니다
+2023-01-31 [01:25:52.548] [Server thread/INFO]: Loading resource packs...
+2023-01-31 [01:25:52.573] [Server thread/INFO]: DevTools v1.15.0을(를) 불러오는 중입니다
+2023-01-31 [01:25:52.581] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2023-01-31 [01:25:52.582] [Server thread/INFO]: FormAPI v2.1.0을(를) 불러오는 중입니다
+2023-01-31 [01:25:52.583] [Server thread/INFO]: Compass v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:25:52.584] [Server thread/INFO]: [Compass] Compass Plugin Loaded
+2023-01-31 [01:25:52.584] [Server thread/INFO]: NightVision v0.0.1을(를) 불러오는 중입니다
+2023-01-31 [01:25:52.585] [Server thread/INFO]: [NightVision] NightVision Plugin Loaded
+2023-01-31 [01:25:52.585] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:25:52.622] [Server thread/INFO]: "world" 세계를 준비하는 중입니다
+2023-01-31 [01:25:52.644] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:25:52.645] [Server thread/INFO]: Compass v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:25:52.646] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하도록 설정하는 중입니다
+2023-01-31 [01:25:52.688] [Server thread/INFO]: 0.0.0.0:19132에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:25:52.688] [Server thread/INFO]: 0.0.0.0:19132에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:25:52.702] [Server thread/INFO]: [::]:19133에서 Minecraft 네트워크 인터페이스가 실행 중입니다
+2023-01-31 [01:25:52.703] [Server thread/INFO]: [::]:19133에서 GS4 Query 리스너가 실행 중입니다
+2023-01-31 [01:25:52.704] [Server thread/INFO]: 기본 게임 유형: 서바이벌 모드
+2023-01-31 [01:25:52.705] [Server thread/INFO]: 이 프로젝트가 유용하다고 생각하시면 기부하여 개발을 지원해주세요: https://patreon.com/pocketminemp
+2023-01-31 [01:25:52.705] [Server thread/INFO]: 완료 (0.493초)! 도움말을 보려면 "help" 또는 "?"를 입력하세요
+2023-01-31 [01:25:53.265] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.12.11 was released on Mon Jan 23 04:45:08 2023
+2023-01-31 [01:25:53.265] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.12.11
+2023-01-31 [01:25:53.266] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.12.11/PocketMine-MP.phar
+2023-01-31 [01:25:55.153] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Session opened
+2023-01-31 [01:25:55.303] [Server thread/INFO]: [NetworkSession: 127.0.0.1 51593] Player: JuJak2
+2023-01-31 [01:25:55.742] [Server thread/INFO]: JuJak2[/127.0.0.1:51593]이(가) 개체 ID 1(으)로 (world, 253.0915, 67, 242.7839)에서 로그인했습니다
+2023-01-31 [01:25:59.773] [Server thread/INFO]: JuJak2이(가) 게임에 참여했습니다
+2023-01-31 [01:26:18.045] [Server thread/INFO]: JuJak2이(가) 게임을 떠났습니다
+2023-01-31 [01:26:18.050] [Server thread/INFO]: [NetworkSession: JuJak2] Session closed due to client disconnect
+2023-01-31 [01:30:48.425] [Server thread/INFO]: Received signal interrupt, stopping the server
+2023-01-31 [01:30:48.427] [Server thread/INFO]: DevTools v1.15.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:30:48.428] [Server thread/INFO]: FormAPI v2.1.0을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:30:48.428] [Server thread/INFO]: Compass v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:30:48.428] [Server thread/INFO]: NightVision v0.0.1을(를) 사용하지 않도록 설정하는 중입니다
+2023-01-31 [01:30:48.429] [Server thread/INFO]: "world" 세계를 언로드하는 중입니다
+2023-01-31 [01:30:49.240] [Server thread/INFO]: Stopping other threads

@@ -1,5 +1,5 @@
 name: Compass
-main: JuJak2\Compass\Compass
+main: JuJak2\Compass\MainClass
 version: 0.0.1
 api: 4.0.0
 
